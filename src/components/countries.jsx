@@ -8,7 +8,7 @@ const Countries = ({ countriesPromise }) => {
   //   console.log(countries);
 
   return (
-    <div>
+    <div className="items-center m-10 p-2.5">
       <h2>All countries</h2>
       {countries.map((country) => (
         <Country key={country.cca3} country={country}></Country>

@@ -8,6 +8,7 @@ const Country = ({ country }) => {
       <h2>{country.name.common}</h2>
       <p>{country.borders}</p>
       <button>{country.borders}</button>
+      <img src={country.flags.png} alt="" />
     </div>
   );
 };
