@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "population": 331002651,
+    "currency": "USD",
+    "flag": "https://flagcdn.com/us.svg"
+  },
+  {
+    "id": 2,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "population": 37742154,
+    "currency": "CAD",
+    "flag": "https://flagcdn.com/ca.svg"
+  },
+  {
+    "id": 3,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "region": "Americas",
+    "population": 212559417,
+    "currency": "BRL",
+    "flag": "https://flagcdn.com/br.svg"
+  },
+  {
+    "id": 4,
+    "name": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "population": 67886011,
+    "currency": "GBP",
+    "flag": "https://flagcdn.com/gb.svg"
+  },
+  {
+    "id": 5,
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "population": 83783942,
+    "currency": "EUR",
+    "flag": "https://flagcdn.com/de.svg"
+  },
+  {
+    "id": 6,
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "population": 65273511,
+    "currency": "EUR",
+    "flag": "https://flagcdn.com/fr.svg"
+  },
+  {
+    "id": 7,
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "population": 1380004385,
+    "currency": "INR",
+    "flag": "https://flagcdn.com/in.svg"
+  },
+  {
+    "id": 8,
+    "name": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "population": 1439323776,
+    "currency": "CNY",
+    "flag": "https://flagcdn.com/cn.svg"
+  },
+  {
+    "id": 9,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "population": 126476461,
+    "currency": "JPY",
+    "flag": "https://flagcdn.com/jp.svg"
+  },
+  {
+    "id": 10,
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "population": 25499884,
+    "currency": "AUD",
+    "flag": "https://flagcdn.com/au.svg"
+  },
+  {
+    "id": 11,
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "population": 59308690,
+    "currency": "ZAR",
+    "flag": "https://flagcdn.com/za.svg"
+  },
+  {
+    "id": 12,
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "region": "Africa",
+    "population": 206139589,
+    "currency": "NGN",
+    "flag": "https://flagcdn.com/ng.svg"
+  },
+  {
+    "id": 13,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "population": 128932753,
+    "currency": "MXN",
+    "flag": "https://flagcdn.com/mx.svg"
+  },
+  {
+    "id": 14,
+    "name": "Russia",
+    "capital": "Moscow",
+    "region": "Europe/Asia",
+    "population": 145934462,
+    "currency": "RUB",
+    "flag": "https://flagcdn.com/ru.svg"
+  },
+  {
+    "id": 15,
+    "name": "Italy",
+    "capital": "Rome",
+    "region": "Europe",
+    "population": 60461826,
+    "currency": "EUR",
+    "flag": "https://flagcdn.com/it.svg"
+  },
+  {
+    "id": 16,
+    "name": "Spain",
+    "capital": "Madrid",
+    "region": "Europe",
+    "population": 46754778,
+    "currency": "EUR",
+    "flag": "https://flagcdn.com/es.svg"
+  },
+  {
+    "id": 17,
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "population": 273523615,
+    "currency": "IDR",
+    "flag": "https://flagcdn.com/id.svg"
+  },
+  {
+    "id": 18,
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "population": 34813871,
+    "currency": "SAR",
+    "flag": "https://flagcdn.com/sa.svg"
+  },
+  {
+    "id": 19,
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia/Europe",
+    "population": 84339067,
+    "currency": "TRY",
+    "flag": "https://flagcdn.com/tr.svg"
+  },
+  {
+    "id": 20,
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "population": 45195774,
+    "currency": "ARS",
+    "flag": "https://flagcdn.com/ar.svg"
+  }
+]
