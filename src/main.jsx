@@ -6,6 +6,7 @@ import { createBrowserRouter, RouterProvider } from "react-router";
 import Navbar from "./components/Navbar/Navbar.jsx";
 import Users from "./components/users/Users.jsx";
 import Countries from "./components/countries/countries.jsx";
+import Products from "./components/Products/Products.jsx";
 
 const countriesPromise = fetch("countries.json").then((res) => res.json());
 
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
             <Countries countriesPromise={countriesPromise}></Countries>
           </Suspense>
         ),
+      },
+      {
+        path: "/products",
+        Component: Products,
       },
       {
         path: "*",
